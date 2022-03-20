@@ -20,7 +20,7 @@ This back end application utilizes Mongodb to create users, thoughts and reactio
 No installation is required. 
 
 ## Usage
-![Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/124Q-4YT9gDI_ew729C_95wllEgDASpKg/view)
 ![screenshot](./public/assets/images/screenshot.jpg)
 
 ## Contributors
